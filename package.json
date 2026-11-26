@@ -1,0 +1,21 @@
+
+{
+  "name": "zero_knowledge-project",
+  "version": "1.0.0",
+  "description": "A Zero Knowledge Proof project using Circom and SnarkJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "zero-knowledge-proof",
+    "circom",
+    "snarkjs",
+    "cryptography"
+  ],
+  "author": "Mehrab Fatma",
+  "license": "MIT",
+  "dependencies": {
+    "snarkjs": "^0.7.5"
+  }
+}
